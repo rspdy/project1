@@ -1,0 +1,17 @@
+//paste it in main css, contact, about, courses
+
+
+
+
+input[type=submit]{
+background-color: #4CAF50;
+  border: none;
+  color: white;
+border-radius:14px;
+  padding: 12px 32px;
+  text-align: center;
+
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
